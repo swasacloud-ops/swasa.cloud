@@ -8,7 +8,7 @@ const Footer = () => {
         {/* Social Media Icons */}
         <div className="flex justify-center gap-4 mb-8">
           <a 
-            href="https://linkedin.com" 
+            href="https://1in.me/swasacloud-linkedin" 
             target="_blank" 
             rel="noopener noreferrer"
             className="inline-flex items-center justify-center w-12 h-12 rounded-lg bg-blue-600 hover:bg-blue-700 transition-colors duration-300"
