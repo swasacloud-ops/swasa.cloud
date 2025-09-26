@@ -16,7 +16,7 @@ const Footer = () => {
             <Linkedin className="h-6 w-6 text-white" />
           </a>
           <a 
-            href="https://instagram.com" 
+            href="https://1in.me/swasacloud-instagram" 
             target="_blank" 
             rel="noopener noreferrer"
             className="inline-flex items-center justify-center w-12 h-12 rounded-lg bg-gradient-to-r from-purple-500 to-pink-500 hover:from-purple-600 hover:to-pink-600 transition-all duration-300"
